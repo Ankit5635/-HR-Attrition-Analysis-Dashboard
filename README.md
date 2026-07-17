@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 📊 HR Attrition Analysis Dashboard 📊
 
 <p align="center">
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/JavaScript-Interactive-yellow.svg">
   <img src="https://img.shields.io/badge/Chart.js-Visualization-red.svg">
   <img src="https://img.shields.io/badge/HR%20Analytics-Data%20Analysis-green.svg">
-</p>
+</div>
 
 ---
 

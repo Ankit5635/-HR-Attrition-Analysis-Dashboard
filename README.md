@@ -1,5 +1,5 @@
 <p align="center">
-# 📊 HR Attrition Analysis Dashboard 📊
+📊 HR Attrition Analysis Dashboard 📊
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-Dashboard-orange.svg">

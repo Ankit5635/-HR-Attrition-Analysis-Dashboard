@@ -1,3 +1,4 @@
+<p align="center">
 # 📊 HR Attrition Analysis Dashboard 📊
 
 <p align="center">

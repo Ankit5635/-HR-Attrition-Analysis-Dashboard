@@ -1,13 +1,13 @@
 <div align="center">
 📊 HR Attrition Analysis Dashboard 📊
-
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-Dashboard-orange.svg">
   <img src="https://img.shields.io/badge/CSS3-Responsive-blue.svg">
   <img src="https://img.shields.io/badge/JavaScript-Interactive-yellow.svg">
   <img src="https://img.shields.io/badge/Chart.js-Visualization-red.svg">
   <img src="https://img.shields.io/badge/HR%20Analytics-Data%20Analysis-green.svg">
-</div>
+</p>
 
 ---
 
